@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `naijfari_tracker`
+-- Database: `tracker`
 --
 
 -- --------------------------------------------------------
@@ -39,8 +39,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `user`, `password`) VALUES
-(1, 'raji', '53c961fd380ee3f04fc70ffedf118ebc1yo133gty42224oi78'),
-(2, 'super', '84d961568a65073a3bcf0eb216b2a5761yo133gty42224oi78');
+(1, 'super', '53c961fd380ee3f04fc70ffedf118ebc1yo133gty42224oi78'),
 
 -- --------------------------------------------------------
 
